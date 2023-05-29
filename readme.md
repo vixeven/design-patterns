@@ -1,5 +1,3 @@
-Here's the formatted text in Markdown:
-
 ## Creational Patterns
 
 - **Singleton**
